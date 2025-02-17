@@ -3,7 +3,7 @@ import numpy as np
 import scipy.stats as stats
 
 # Título de la aplicación
-st.title("Estimación Puntual y por Intervalo")
+st.title("Estimación Puntual y por Intervalo de Nicson Pimentel y Michael Ordoñez")
 
 # Instrucciones para el usuario
 st.write("""
